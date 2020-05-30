@@ -1,0 +1,12 @@
+.italic {
+    font-style: italic;
+}
+
+h1, h2 {
+    color: rgb(209, 37, 37);
+    text-align: center;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
